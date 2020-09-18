@@ -14,8 +14,10 @@
     <FileEntry Name="DfeConfig\" Filter="4" />
     <FileEntry Name="BuyTicketVugenScript.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="combined_BuyTicketVugenScript.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="113583248440.idx" Filter="1" />
     <FileEntry Name="11617200440.idx" Filter="1" />
     <FileEntry Name="1161720044_1Fx.19.idx" Filter="1" />
@@ -436,6 +438,7 @@
     <FileEntry Name="password.dat" Filter="1" />
     <FileEntry Name="randomregdata.dat" Filter="1" />
     <FileEntry Name="random_id.dat" Filter="1" />
+    <FileEntry Name="README.md" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="returnDate.dat" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
@@ -445,7 +448,9 @@
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="Новый текстовый документ.txt" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
+    <FileEntry Name="Скрипты\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
