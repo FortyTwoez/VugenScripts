@@ -1,0 +1,12 @@
+password,login,firstName,lastName,adress1,adress2,creditCard,expDate,advanceDiscount,pass1
+bean,jojo,jojo,bean,Moscow,111222,1111 2222 3333 4444,02/21,1,Jojo Bean
+bean1,jojo1,jojo1,bean1,Sankt-Petersburg,111333,2222 3333 4444 5555,03/21,2,Jojo1 Bean1
+bean2,jojo2,jojo2,bean2,Chelyabinsk,111444,1111 3333 2222 4444,04/21,3,Jojo2 Bean2
+bean3,jojo3,jojo3,bean3,Kolomna,111555,1234 1234 1234 1234,05/21,4,Jojo3 Bean3
+bean4,jojo4,jojo4,bean4,Kazakstan,111666,1122 2233 3344,06/21,5,Jojo4 Bean4
+bean5,jojo5,jojo5,bean5,Ekaterinburg,111777,2121 2121 2121 2121,07/21,6,Jojo5 Bean5
+bean6,jojo6,jojo6,bean6,New-York,424242,1234 4321 1234 4321,08/21,7,Jojo6 Bean6
+bean7,jojo7,jojo7,bean7,Atlanta,434343,1321 1321 1321 1321,09/21,8,Jojo7 Bean7
+bean8,jojo8,jojo8,bean8,Ogaio,444444,2312 2312 2312 2312,10/21,9,Jojo8 Bean8
+bean9,jojo9,jojo9,bean9,Columbus,555666,3421 3421 3421 3421,11/21,10,Jojo9 Bean9
+,,,,,,,,,
